@@ -1,8 +1,18 @@
 # Lesson 1 - What is Git?
 
+## Learning goals
+
+By the end of this lesson, you should be able to explain:
+
+- what Git is
+- what version control means
+- why Git was created
+- the difference between Git and GitHub
+- what a commit, history, and branch are at a basic level
+
 ## What is Git?
 
-Git is a distributed version control system (DVCS).
+Git is a **distributed version control system (DVCS)**.
 
 It helps you track changes in files over time, compare versions, recover old work, and collaborate safely with others.
 
@@ -20,7 +30,7 @@ Git keeps one project and remembers the history of changes behind the scenes.
 
 ## Why was Git created?
 
-Git was created in 2005 by Linus Torvalds to help manage the Linux kernel project.
+Git was created in 2005 by **Linus Torvalds** to help manage the Linux kernel project.
 
 It was designed to be:
 
@@ -34,8 +44,8 @@ It was designed to be:
 
 Git and GitHub are not the same.
 
-- Git is the version control software installed on your computer.
-- GitHub is an online platform that hosts Git repositories.
+- **Git** is the version control software installed on your computer.
+- **GitHub** is an online platform that hosts Git repositories.
 
 A simple way to think about it:
 
@@ -73,6 +83,17 @@ Git helps with:
 - reviewing code
 - merging safely
 - reverting mistakes
+
+## Core ideas introduced so far
+
+### Commit
+A commit is a saved snapshot of your project at a specific point in time.
+
+### History
+History is the chain of commits that shows how your project changed over time.
+
+### Branch
+A branch is an independent line of development that lets you work on a feature without affecting the main codebase.
 
 ## Common misconception
 
