@@ -5,7 +5,7 @@ Welcome to Phase 1. This phase builds the foundation you need before moving into
 ## Lessons
 
 - [Lesson 1 - What is Git?](./Lesson%201%20-%20What%20is%20Git.md)
-- Lesson 2 - Installing Git & Configuration
+- [Lesson 2 - Installing Git & Configuration](./Lesson%202%20-%20Installing%20Git%20%26%20Configuration.md)
 - Lesson 3 - Creating Your First Repository (`git init`)
 - Lesson 4 - Working Directory, Staging Area & Repository (Deep Dive)
 
@@ -22,7 +22,14 @@ Welcome to Phase 1. This phase builds the foundation you need before moving into
 ## Recommended order
 
 1. Read Lesson 1
-2. Practice the quiz
-3. Do the hands-on lab
-4. Move to Lesson 2
+2. Read Lesson 2
+3. Practice the quizzes
+4. Do the hands-on labs
 5. Continue in order through Lesson 4
+
+## Progress
+
+- ✅ Lesson 1 completed
+- ✅ Lesson 2 completed
+- ⏳ Lesson 3 pending
+- ⏳ Lesson 4 pending
